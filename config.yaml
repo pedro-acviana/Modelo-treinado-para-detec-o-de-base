@@ -1,0 +1,6 @@
+path: C:\Users\pedro\VS_CODE\PS_EDRA_YOLOV8n\data
+train: images\train
+val: images\train
+
+names:
+  0: base

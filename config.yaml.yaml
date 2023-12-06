@@ -1,0 +1,6 @@
+path: C:\Users\pedro\VS_CODE\data
+train: images\train
+val: images\train
+
+names:
+  0: base
