@@ -1,2 +1,2 @@
 # PS-EDRA
-Treinamento de modelo YoloV8n para detecção de base de pouso
+Treinamento de modelo YoloV8n para detecção das bases padrão da Competição Brasileira de Robótica
